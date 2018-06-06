@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! master <h2>
+<h2>Hello World! from master <h2>
 </body>
 </html>
